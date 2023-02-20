@@ -5,8 +5,8 @@
 Step 1: Clone repository and install dependencies
 
 ```
-git clone https://github.com/wallfair-organization/client-side.git
-cd client-side
+git clone https://github.com/wholespace214/crash-game-frontend.git
+cd crash-game-frontend
 npm install
 ```
 
