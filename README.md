@@ -10,7 +10,7 @@ cd crash-game-frontend
 npm install
 ```
 
-Step 2: Ensure backend environment is setup and running. Please refer to https://github.com/wallfair-organization/server-side
+Step 2: Ensure backend environment is setup and running. Please refer to https://github.com/wholespace214/crash-game-frontend
 
 Step 3: Run the client with:
 
